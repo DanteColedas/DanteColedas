@@ -1,6 +1,6 @@
 ### 👋 ¡Hola, soy Dante!
 
-Soy un estudiante universitario de Córdoba, Argentina. Estoy introduciéndome al mundo de la programación, donde busco aprender cada día. Me encanta diseñar páginas web con HTML, CSS y JavaScript, aunque también tengo conocimientos en C y SQL.
+Soy un estudiante universitario de Córdoba, Argentina. Estoy introduciéndome al mundo del desarrollo web, donde busco aprender cada día. Me encanta diseñar páginas web con HTML, CSS y JavaScript, aunque también tengo conocimientos en C y SQL.
 
 Me inspira crear páginas web modernas y accesibles, ¡para que todas las personas puedan disfrutarlas!
 
